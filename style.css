@@ -1,0 +1,11 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+}
+.color1 {
+    background-color: deeppink;
+}
+.opacity1 {
+    opacity: 0.5;
+}
